@@ -1,4 +1,4 @@
-# Predicción de Ventas: Análisis de Series Temporales 📈🛒
+# Predicción de Ventas: Análisis de Series Temporales 📈
 
 Este repositorio contiene un proyecto de predicción de ventas (Time Series Forecasting) desarrollado para una empresa de retail online. El objetivo es pronosticar el volumen de ventas totales por país para el próximo mes, optimizando así la planificación logística y financiera de la compañía.
 
