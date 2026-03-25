@@ -9,7 +9,7 @@ Pasar de un análisis puramente descriptivo del histórico de ventas a un **mode
 - **Lenguaje:** Python
 - **Manipulación y Análisis:** Pandas, Numpy
 - **Modelos Estadísticos y Clásicos:** SARIMAX
-- **Modelos de Machine Learning:** Prophet (Meta), XGBoost
+- **Modelos de Machine Learning:** Prophet, XGBoost
 - **Métrica de Evaluación:** MAPE (Mean Absolute Percentage Error)
 
 ## 🔄 Metodología del Proyecto
