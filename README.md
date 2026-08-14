@@ -22,7 +22,7 @@ El desarrollo se estructuró en las siguientes fases metodológicas:
    - *XGBoost* alimentado con variables de calendario y retardos temporales (lags).
 3. **Selección Dinámica:** En lugar de usar un único modelo para todo, se evaluó el rendimiento mediante el error MAPE y se seleccionó **el mejor modelo de forma individual para cada país**.
 
-## 💡 Conclusiones y Recomendaciones de Negocio
+## 💡 Conclusiones
 El valor real de este modelo radica en su aplicación práctica. A partir de las predicciones, se extrajeron las siguientes directrices estratégicas:
 
 * **Anticipación del Q4 (Cuarto Trimestre):** Se detectó la necesidad de reforzar la logística y el inventario desde el mes de septiembre para hacer frente al pico estacional de ventas.
